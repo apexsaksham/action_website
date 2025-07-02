@@ -1,4 +1,4 @@
-name: Hello python
+name: Hello Python Script
 
 on:
   workflow_dispatch:
