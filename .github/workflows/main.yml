@@ -3,7 +3,7 @@ name: action website
 on:
    push:
         branches:
-              -main
+            - main
 
 jobs:
   build-and-deploy:
